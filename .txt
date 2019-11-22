@@ -1,2 +1,5 @@
+
 some data extended
 second line in x.txt from master
+a from dev branch
+more code
